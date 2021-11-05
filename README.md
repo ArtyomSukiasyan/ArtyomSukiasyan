@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 Welcome to my profile
 I'm a former professional chess player and trainer who switched to development and started making websites and mobile apps
 
 ## My sites
