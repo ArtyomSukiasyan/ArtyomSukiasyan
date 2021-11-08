@@ -7,7 +7,7 @@ I'm a former professional chess player and trainer who switched to development a
 - https://ararat.chessnews.am/
 
 ## My app for android
-- [Chess Arbiter](https://play.google.com/store/apps/details?id=com.chessarbiter)
+- [Chess Arbiter](https://play.google.com/store/apps/details?id=com.chessarbiter){:target="_blank" rel="noopener"}
 
 ## Work
 
