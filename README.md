@@ -7,16 +7,16 @@ You can see more about my education and work experience on my
 In addition to work and various features in Github, I also created several websites and mobile application for the development of chess.
 
 ## My sites
-- https://chessarbiter.info/en/
-- https://chessnews.am/
-- https://ararat.chessnews.am/
+- https://chessarbiter.info/en/ - A handbook of chess rules
+- https://chessnews.am/ - Chess news in Armenia and the world
+- https://ararat.chessnews.am/ - The website of the Ararat Region Chess Federation
 
 ## My app for android
-- [Chess Arbiter](https://play.google.com/store/apps/details?id=com.chessarbiter)
+- [Chess Arbiter](https://play.google.com/store/apps/details?id=com.chessarbiter) - Mobile app for handbook with some new features
 
 ## Work
 
-Currently I work in [sdc.am](https://sdc.am/).
+Currently I work in [sdc.am](https://sdc.am/) as Javascript developer.
 
 ## Free time
 
