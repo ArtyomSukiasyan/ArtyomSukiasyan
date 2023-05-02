@@ -24,7 +24,7 @@ In my free time I create various features and publish them here
 
 ## Besides programming
 
-I am fond of psychology, I like to walk, read books, listen to music and, of course, play chess.
+I am fond of psychology, I like to walk, read books, listen to music, hiking, climbing and, of course, play chess.
 
 ### I'm in online chess
 - [lichess](https://lichess.org/@/artiom1401)
