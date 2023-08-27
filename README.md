@@ -16,7 +16,7 @@ In addition to work and various features in Github, I also created several websi
 
 ## Work
 
-Currently I work in [sdc.am](https://sdc.am/) as Javascript developer.
+Currently I work in [Devs Software Design](https://devs.ae/) as Javascript Engineer.
 
 ## Free time
 
