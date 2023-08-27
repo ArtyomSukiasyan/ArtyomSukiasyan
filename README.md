@@ -2,7 +2,7 @@
 I'm a former professional chess player and trainer who switched to development and started making websites and mobile apps. I love coding and spend an average of 14 hours a day on programming.
 
 You can see more about my education and work experience on my 
-[portfolio website.](https://portfolio-sage-eta-45.vercel.app/).
+[portfolio website.](https://devchessplayer.com/).
 
 In addition to work and various features in Github, I also created several websites and mobile application for the development of chess.
 
