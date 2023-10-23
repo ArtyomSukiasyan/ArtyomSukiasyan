@@ -28,9 +28,8 @@ I am fond of psychology, I like to walk, read books, listen to music, hiking, cl
 
 ### I'm in online chess
 - [lichess](https://lichess.org/@/artiom1401)
-- [chess.com](https://www.chess.com/member/artiom_suqiasyan)
 
 ### I'm in social networks
 - [Linkedin](https://am.linkedin.com/in/artyomsukiasyan)
-- [Facebook](https://www.facebook.com/artiomsuqiasyan97)
+- [Facebook](https://www.facebook.com/artyomsukiasyan1401)
 - [Telegram](https://t.me/artyom1401)
