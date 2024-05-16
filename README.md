@@ -29,6 +29,8 @@ In my free time I create various features and publish them in my Github. Below y
 - [2048](https://2048-peach.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/2048)
 - [Chess game for 2 players](https://minesweeper-rouge-six.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/minesweeper)
 
+**More fun projects in my repos**
+
 ## Besides programming
 
 I am fond of psychology, I like to walk, read books, listen to music, hiking, climbing and, of course, play chess.
