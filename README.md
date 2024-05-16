@@ -11,7 +11,7 @@ I'm hard-working web developer with a keen interest in education. Former profess
 As a fan of programming and a big chess lover, I have created several useful **open source** projects
 
 ### Websites
-- https://chessarbiter.info/en/ - A handbook of chess rules ([source code](https://github.com/Chess-Arbiter/handbook))
+- [https://chessarbiter.info](https://chessarbiter.info/en/laws/intro) - A handbook of chess rules ([source code](https://github.com/Chess-Arbiter/handbook))
 - https://ararat.chessnews.am/ - The website of the Ararat Region Chess Federation ([source code](https://github.com/Ararat-chess-federation/website))
 
 ### Mobile app
