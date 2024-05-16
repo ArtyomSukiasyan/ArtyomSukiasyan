@@ -29,7 +29,7 @@ In my free time I create various features and publish them in my Github. Below y
 - [2048](https://2048-peach.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/2048)
 - [Chess game for 2 players](https://minesweeper-rouge-six.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/minesweeper)
 
-**More fun projects in my repos**
+**More fun projects in my [repos](https://github.com/ArtyomSukiasyan?tab=repositories)**
 
 ## Besides programming
 
