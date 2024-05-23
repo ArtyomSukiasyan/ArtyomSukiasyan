@@ -35,6 +35,9 @@ In my free time I create various features and publish them in my Github. Below y
 
 I am fond of psychology, I like to walk, read books, listen to music, hiking, climbing and, of course, play chess.
 
+![Alt text](./icons/reading.svg "Title") - read books
+
+
 ## Contacts
 
 ### I'm in social networks
