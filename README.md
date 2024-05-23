@@ -6,11 +6,12 @@ I'm hard-working web developer with a keen interest in education. Former profess
 - [Linkedin](https://am.linkedin.com/in/artyomsukiasyan)
 - [Portfolio](https://devchessplayer.com/)
 
-## My open source projects 
+## My open source projects
 
 As a fan of programming and a big chess lover, I have created several useful **open source** projects
 
 ### Websites
+
 - [https://chessarbiter.info](https://chessarbiter.info/en/laws/intro) - A handbook of chess rules ([source code](https://github.com/Chess-Arbiter/handbook))
 - https://ararat.chessnews.am/ - The website of the Ararat Region Chess Federation ([source code](https://github.com/Ararat-chess-federation/website))
 
@@ -33,7 +34,9 @@ In my free time I create various features and publish them in my Github. Below y
 
 ## Besides programming
 
-I am fond of psychology, I like  listen to music, hiking, climbing and, of course, play chess.
+I am fond of, I like and, of course, play chess.
+
+![Chess](./icons/chess.svg "Chess") - Chess
 
 ![Reading](./icons/reading.svg "Reading") - Read books
 
@@ -41,10 +44,19 @@ I am fond of psychology, I like  listen to music, hiking, climbing and, of cours
 
 ![Headphones](./icons/headphones.svg "Music") - Listen Music
 
+![Hiking](./icons/hiking.svg "Hiking") - Hiking
+
+![Climbing](./icons/climbing.svg "Climbing") - Climbing
+
+![Psychology](./icons/psychology.svg "Psychology") - Psychology
+
+![Football](./icons/football.svg "Football") - Football
+
 
 ## Contacts
 
 ### I'm in social networks
+
 - [artyom.sukiasyan1401@gmail.com](mailto:artyom.sukiasyan1401@gmail.com)
 - [Linkedin](https://am.linkedin.com/in/artyomsukiasyan)
 - [Telegram](https://t.me/artyom1401)
