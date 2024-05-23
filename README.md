@@ -52,6 +52,9 @@ I am fond of, I like and, of course, play chess.
 
 ![Football](./icons/football.svg "Football") - Football
 
+![Bicycle](./icons/bicycle.svg "Bicycle") - Cycling
+
+![OffRoad](./icons/offroad.svg "OffRoad") - Off road, traveling by car with tent
 
 ## Contacts
 
