@@ -25,7 +25,6 @@ In my free time I create various features and publish them in my Github. Below y
 
 - [Chess game offline](https://react-ts-chess-henna.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/react-ts-chess)
 - [Chess engine](https://chess-engine-green.vercel.app) | [source code](https://github.com/ArtyomSukiasyan/Chess-engine)
-- [Chess clock](https://chess-clock-amber.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/Chess-clock)
 - [Tic Tac Toe Engine](https://tic-tac-toe-engine.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/TicTacToe-Engine)
 - [2048](https://2048-peach.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/2048)
 - [Chess game for 2 players](https://minesweeper-rouge-six.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/minesweeper)
