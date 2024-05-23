@@ -32,17 +32,15 @@ In my free time I create various features and publish them in my Github. Below y
 
 **More fun projects in my [repos](https://github.com/ArtyomSukiasyan?tab=repositories)**
 
-## Besides programming
-
-I am fond of, I like and, of course, play chess.
+## Hobbies
 
 ![Chess](./icons/chess.svg "Chess") - Chess
 
-![Reading](./icons/reading.svg "Reading") - Read books
+![Reading](./icons/reading.svg "Reading") - Reading books
 
-![Walking](./icons/walking.svg "Walking") - Walk
+![Walking](./icons/walking.svg "Walking") - Walking
 
-![Headphones](./icons/headphones.svg "Music") - Listen Music
+![Headphones](./icons/headphones.svg "Music") - Music
 
 ![Hiking](./icons/hiking.svg "Hiking") - Hiking
 
