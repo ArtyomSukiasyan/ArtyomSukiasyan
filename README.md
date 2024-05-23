@@ -23,11 +23,11 @@ As a fan of programming and a big chess lover, I have created several useful **o
 
 In my free time I create various features and publish them in my Github. Below you can see some of my projects.
 
-- [Chess game offline](https://react-ts-chess-henna.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/react-ts-chess)
 - [Chess engine](https://chess-engine-green.vercel.app) | [source code](https://github.com/ArtyomSukiasyan/Chess-engine)
+- [Chess game for 2 players](https://react-ts-chess-henna.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/react-ts-chess)
 - [Tic Tac Toe Engine](https://tic-tac-toe-engine.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/TicTacToe-Engine)
 - [2048](https://2048-peach.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/2048)
-- [Chess game for 2 players](https://minesweeper-rouge-six.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/minesweeper)
+- [Minesweeper](https://minesweeper-rouge-six.vercel.app/) | [source code](https://github.com/ArtyomSukiasyan/minesweeper)
 
 **More fun projects in my [repos](https://github.com/ArtyomSukiasyan?tab=repositories)**
 
