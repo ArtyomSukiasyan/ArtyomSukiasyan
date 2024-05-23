@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my profile
 
-I'm hard-working web developer with a keen interest in education. Former professional chess player and trainer. Have 3.5 years of experience working with children as chess trainer. Fan of my work.
+I'm an experienced, hard-working web developer with a keen interest in education. Former professional chess player and trainer, I have 3.5 years of experience working with children as a chess trainer. I am a fan of my work. Thanks to my extensive experience playing professional chess, I have developed an analytical mind aimed at optimal problem solving. Being a fan of my craft, I spend an average of 14 hours a day programming. I always strive to create clear and reusable code that is easy to maintain.
 
 - [CV](https://devchessplayer.com/files/Artyom_Sukiasyan_JS_Engineer_CV.pdf)
 - [Linkedin](https://am.linkedin.com/in/artyomsukiasyan)
