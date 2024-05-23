@@ -33,25 +33,13 @@ In my free time I create various features and publish them in my Github. Below y
 
 ## Hobbies
 
-![Chess](./icons/chess.svg "Chess") - Chess
-
-![Reading](./icons/reading.svg "Reading") - Reading books
-
-![Walking](./icons/walking.svg "Walking") - Walking
-
-![Headphones](./icons/headphones.svg "Music") - Music
-
-![Hiking](./icons/hiking.svg "Hiking") - Hiking
-
-![Climbing](./icons/climbing.svg "Climbing") - Climbing
-
-![Psychology](./icons/psychology.svg "Psychology") - Psychology
-
-![Football](./icons/football.svg "Football") - Football
-
-![Bicycle](./icons/bicycle.svg "Bicycle") - Cycling
-
-![OffRoad](./icons/offroad.svg "OffRoad") - Off road, traveling by car with tent
+|                                                                 |                                                                                  |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ![Chess](./icons/chess.svg "Chess") - Chess                     | ![Reading](./icons/reading.svg "Reading") - Reading books                        |
+| ![Walking](./icons/walking.svg "Walking") - Walking             | ![Headphones](./icons/headphones.svg "Music") - Music                            |
+| ![Hiking](./icons/hiking.svg "Hiking") - Hiking                 | ![Climbing](./icons/climbing.svg "Climbing") - Climbing                          |
+| ![Psychology](./icons/psychology.svg "Psychology") - Psychology | ![Football](./icons/football.svg "Football") - Football                          |
+| ![Bicycle](./icons/bicycle.svg "Bicycle") - Cycling             | ![OffRoad](./icons/offroad.svg "OffRoad") - Off road, traveling by car with tent |
 
 ## Contacts
 
