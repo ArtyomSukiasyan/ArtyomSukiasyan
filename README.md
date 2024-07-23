@@ -21,7 +21,7 @@ As a fan of programming and a big chess lover, I have created several useful **o
 
 ### Mobile app
 
-- [Chess Arbiter (currently is testing)](https://play.google.com/store/apps/details?id=com.chess_arbiter.chessarbitermobile) - Mobile app for handbook with some new features ([source code](https://github.com/Chess-Arbiter/handbook))
+- [Chess Arbiter (currently is testing)](https://play.google.com/store/apps/details?id=com.chess_arbiter.chessarbitermobile) - Mobile app for handbook with some new features ([source code](https://github.com/Chess-Arbiter/mobile))
 
 ## Fun projects
 
