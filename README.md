@@ -19,7 +19,7 @@ As a fan of open source programming and a big chess lover, I have created severa
 
 ### Mobile app
 
-- [Chess Arbiter (currently is testing)](https://play.google.com/store/apps/details?id=com.chess_arbiter.chessarbitermobile) - Mobile app for Chess Arbiter ([source code](https://github.com/Chess-Arbiter/mobile))
+- [Chess Arbiter](https://play.google.com/store/apps/details?id=com.chess_arbiter.chessarbitermobile) - Mobile app for Chess Arbiter ([source code](https://github.com/Chess-Arbiter/mobile))
 
 ## Open source fun projects
 
@@ -42,8 +42,6 @@ In my free time I create various features and publish them in my Github. Below y
 - **Frontend:** React, Next.js
 - **Testing:** Unit Testing using Jest
 - **Version Control:** Git
-
----
 
 ## Familiar With
 
