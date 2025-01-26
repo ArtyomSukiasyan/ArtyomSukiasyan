@@ -49,6 +49,7 @@ In my free time I create various features and publish them in my Github. Below y
 - Angular
 - Python, Flask
 - Tauri
+- Load testing using K6
 
 ## Hobbies
 
