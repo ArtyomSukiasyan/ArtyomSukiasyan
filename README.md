@@ -1,7 +1,8 @@
 # Artyom Sukiasyan
 
-Experienced JavaScript Software Engineer with 4 years of backend development experience using Node.js. Also has 15+ years of experience as a professional chess player and 3+ years as a
-professional chess trainer.
+Experienced JavaScript Software Engineer with 4+ years in backend development using Node.js. Built a cloud platform for US virtual phone numbers, migrated 3M+ records for better DB performance, and improved search with Elasticsearch indexing. Developed Excel data processing to cut data entry time and extended Strapi CMS with external custom plugins. Comfortable working with AI tools and integrating them into applications. Practiced in TDD and mentoring. 
+
+Also a professional chess player (17+ years) and trainer (3+ years), bringing strong analytical and teaching skills.
 
 
 [CV](https://devchessplayer.com/files/Artyom_Sukiasyan_JS_Engineer_CV.pdf) | [LinkedIn](https://am.linkedin.com/in/artyomsukiasyan) | [Portfolio](https://devchessplayer.com/)
@@ -13,8 +14,8 @@ As a fan of open source programming and a big chess lover, I have created severa
 
 ### Websites
 
-- [https://chessarbiter.info](https://chessarbiter.info/en/laws/intro) - Everything you need to know about playing chess. Available in multiple languages. ([source code](https://github.com/Chess-Arbiter/handbook))
-- https://ararat.chessnews.am/ - The official website of the Ararat Region Chess Federation. My gift to the federation. ([source code](https://github.com/Ararat-chess-federation/website))
+- [Chess Arbiter](https://chessarbiter.info/en/laws/intro) - Everything you need to know about playing chess. Available in multiple languages. ([source code](https://github.com/Chess-Arbiter/handbook))
+- [Ararat region chess federation website](https://ararat.chessnews.am) - The official website of the Ararat Region Chess Federation. My gift to the federation. ([source code](https://github.com/Ararat-chess-federation/website))
 
 ### Mobile app
 
@@ -32,32 +33,42 @@ In my free time I create various features and publish them in my Github. Below y
 
 ## Skills
 
-- **Languages:** JS, TS, HTML, CSS, SCSS
-- **Backend:** Node.js, Express, Koa, Strapi CMS
-- **Databases:** SQL, NoSQL, Elasticsearch
+- **Languages:** JS, TS, HTML, CSS
+- **Backend:** Node.js, Nest.js, Express, Koa, Strapi CMS
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, Firebase
+- **ORM & Data Tools:** TypeORM, Mongoose
+- **API:** REST, GraphQL, WebSocket
+- **Services:** IIPImage, Heroku
+- **Task queue:** RabbitMQ, Hatchet
+- **Payments:** Stripe, Bank integrations/APIs
 - **DevOps:** Docker, Nginx
-- **Payments:** Stripe
 - **Documentation:** Swagger
+- **Testing:** Unit Testing, E2E Testing
 - **Frontend:** React, Next.js
-- **Testing:** Unit Testing using Jest
 - **Version Control:** Git
 
 ## Familiar With
 
 - React Native, Expo
-- Angular
+- Angular, Vue
+- SCSS, MaterialUI
 - Python, Flask
 - Tauri
 - Load testing using K6
+
+## Languages
+- English: Advanced
+- Russian: Fluent
+- Armenian: Native
 
 ## Hobbies
 
 |                                                                 |                                                                                  |
 | --------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![Chess](./icons/chess.svg "Chess") - Chess                     | ![Reading](./icons/reading.svg "Reading") - Reading books                        |
-| ![Climbing](./icons/climbing.svg "Climbing") - Climbing         | ![Headphones](./icons/headphones.svg "Music") - Music                            |
-| ![Psychology](./icons/psychology.svg "Psychology") - Psychology | ![Football](./icons/football.svg "Football") - Football                          |
-| ![Bicycle](./icons/bicycle.svg "Bicycle") - Cycling             | ![OffRoad](./icons/offroad.svg "OffRoad") - Off roading |
+| ![Chess](./icons/chess.svg "Chess") Chess                     | ![Reading](./icons/reading.svg "Reading") Reading books                        |
+| ![Climbing](./icons/climbing.svg "Climbing") Climbing         | ![Headphones](./icons/headphones.svg "Music") Music                            |
+| ![Psychology](./icons/psychology.svg "Psychology") Psychology | ![Football](./icons/football.svg "Football") Football                          |
+| ![Bicycle](./icons/bicycle.svg "Bicycle") Cycling             | ![OffRoad](./icons/offroad.svg "OffRoad") Off roading |
 
 ## Contacts
 
