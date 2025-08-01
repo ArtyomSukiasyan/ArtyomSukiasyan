@@ -57,9 +57,9 @@ In my free time I create various features and publish them in my Github. Below y
 - Load testing using K6
 
 ## Languages
-- English: Advanced
-- Russian: Fluent
-- Armenian: Native
+- **English**: Advanced
+- **Russian**: Fluent
+- **Armenian**: Native
 
 ## Hobbies
 
