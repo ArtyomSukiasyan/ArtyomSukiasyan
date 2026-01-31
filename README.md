@@ -1,8 +1,6 @@
 # Artyom Sukiasyan
 
-Experienced JavaScript Software Engineer with 4+ years in backend development using Node.js. Built a cloud platform for US virtual phone numbers, migrated 3M+ records for better DB performance, and improved search with Elasticsearch indexing. Developed Excel data processing to cut data entry time and extended Strapi CMS with external custom plugins. Comfortable working with AI tools and integrating them into applications. Practiced in TDD and mentoring. 
-
-Also a professional chess player (17+ years) and trainer (3+ years), bringing strong analytical and teaching skills.
+Backend JavaScript Engineer with 5+ years of experience designing and scaling Node.js services, executing large-scale data migrations, and optimizing search with Elasticsearch. Delivered productiongrade tools that streamlined workflows and extended Strapi CMS with custom backend solutions. Applied TDD practices and provided technical mentoring. Former professional chess player and trainer.
 
 
 [CV](https://devchessplayer.com/files/Artyom_Sukiasyan_JS_Engineer_CV.pdf) | [LinkedIn](https://am.linkedin.com/in/artyomsukiasyan) | [Portfolio](https://devchessplayer.com/)
@@ -55,6 +53,7 @@ In my free time I create various features and publish them in my Github. Below y
 - Python, Flask
 - Tauri
 - Load testing using K6
+- Twilio, TextGrid
 
 ## Languages
 - **English**: Advanced
